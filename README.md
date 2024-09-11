@@ -5,9 +5,6 @@
 ## Introduction
 This software helps build a system from scratch, enhancing understanding of system architecture, computer vision, GUIs using Python's Tkinter, and OpenCV. It offers valuable experience for anyone looking to dive into computer vision and real-time system development.
 
-## Video Demonstration
-![Video Demostration](Materials/output/compar%20view.mp4)
-
 ## Table of Contents
 - [Preface](#preface)
 - [Objectives](#objectives)
