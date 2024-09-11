@@ -51,4 +51,3 @@ The administrator opens video footage, draws a traffic line, and the system begi
   *Email*: afrozeuddinmau@gmail.com  
 - **Abdul Rahman**  
   *Email*: Abdul.rahman245250@gmail.com
-# Traffic-Violation-Detection
